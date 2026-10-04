@@ -3,7 +3,6 @@
 **A project management tool for creative studios, built with React.**
 Plan projects, run work on a drag-and-drop board, see a real timeline, track time on every task and watch project health update on its own, all in a sharp white and red interface.
 
-> CodeSoft Internship · Task 2: Project Management Tool
 
 ---
 
@@ -131,4 +130,3 @@ The same prototype hosted on GitHub Pages. It uses sample data and stores change
 
 ---
 
-Built by **Hargun** as part of the CodeSoft internship.
